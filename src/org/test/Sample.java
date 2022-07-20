@@ -11,6 +11,12 @@ public class Sample {
 
 		System.out.println(a);
 
+		System.out.println(123);
+
+		String s = "java";
+
+		System.out.println(s);
+
 	}
 
 }
