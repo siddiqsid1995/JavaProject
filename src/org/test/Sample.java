@@ -6,6 +6,11 @@ public class Sample {
 
 		System.out.println("java");
 		System.out.println("python");
+
+		int a = 10;
+
+		System.out.println(a);
+
 	}
 
 }
